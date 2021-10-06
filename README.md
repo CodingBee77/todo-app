@@ -6,6 +6,8 @@ Functionalities:
 - marking as done or not done
 
 
+![](todo-app-gif.gif)
+
 ## Project setup
 ```
 npm install
