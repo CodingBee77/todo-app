@@ -1,4 +1,10 @@
-# my-app
+# TO DO app
+
+Simple To do app written with Vue js and Vuetify.
+Functionalities:
+- adding and deleting tasks
+- marking as done or not done
+
 
 ## Project setup
 ```
