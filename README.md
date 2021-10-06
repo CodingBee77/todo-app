@@ -1,6 +1,6 @@
 # TO DO app
 
-Simple To do app written with Vue js and Vuetify.
+Simple 'Todo app' written in Vue js and Vuetify.
 Functionalities:
 - adding and deleting tasks
 - marking as done or not done
