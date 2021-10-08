@@ -8,21 +8,34 @@ Functionalities:
 
 ![](todo-app-gif.gif)
 
-## Project setup
+
+## Run the application 
+
+ 1. Locally:
+
+Download the repo locally
+
+Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+Compiles and minifies for production
 ```
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+2. With docker ( easier ):
+
+Download the repo locally
+
+Run project in development environment
+```
+docker-compose up --build
+```
 
