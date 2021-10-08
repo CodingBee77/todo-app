@@ -11,7 +11,7 @@ Functionalities:
 
 ## Run the application 
 
- 1. Locally:
+ 1. **Locally**:
 
 Download the repo locally
 
@@ -30,7 +30,7 @@ Compiles and minifies for production
 npm run build
 ```
 
-2. With docker ( easier ):
+2. **With docker ( easier )**:
 
 Download the repo locally
 
